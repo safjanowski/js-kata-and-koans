@@ -134,3 +134,25 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #e7ad52; }
+
+.reveal section table {
+    width: 100%;
+}
+
+.reveal section td {
+    vertical-align: top;
+}
+
+.reveal section td:first-child {
+    text-align: right;
+}
+
+.reveal section td:last-child {
+    text-align: left;
+    padding-left: 3em;
+}
+
+.reveal section td img {
+    margin: 0;
+
+}
