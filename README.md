@@ -1,4 +1,6 @@
-# reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+# JavaScript Kata & Koans
+based on
+## reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
 
@@ -879,7 +881,7 @@ Some reveal.js features, like external markdown and speaker notes, require that 
 
 4. Clone the reveal.js repository
    ```sh
-   $ git clone https://github.com/hakimel/reveal.js.git
+   $ git clone https://github.com/mrudzki/reveal.js.git
    ```
 
 5. Navigate to the reveal.js folder
