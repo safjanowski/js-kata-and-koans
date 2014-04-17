@@ -864,7 +864,7 @@ The **basic setup** is for authoring presentations only. The **full setup** give
 
 The core of reveal.js is very easy to install. You'll simply need to download a copy of this repository and open the index.html file directly in your browser.
 
-1. Download the latest version of reveal.js from <https://github.com/hakimel/reveal.js/releases>
+1. Download the latest version from <https://github.com/mrudzki/js-kata-and-koans>
 
 2. Unzip and replace the example contents in index.html with your own
 
@@ -881,7 +881,7 @@ Some reveal.js features, like external markdown and speaker notes, require that 
 
 4. Clone the reveal.js repository
    ```sh
-   $ git clone https://github.com/mrudzki/reveal.js.git
+   $ git clone git@github.com:mrudzki/js-kata-and-koans.git
    ```
 
 5. Navigate to the reveal.js folder
